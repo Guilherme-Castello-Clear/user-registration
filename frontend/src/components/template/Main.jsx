@@ -8,7 +8,6 @@ export default props =>
         <main className="content container-fluid">
             <div className="p-3 mt-3">
                 {props.children}
-                {console.log('AAAAAAAAAAAAAAAAAAAaa')}
             </div>
         </main>
     </React.Fragment>
